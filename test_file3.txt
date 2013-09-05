@@ -1,1 +1,1 @@
-This is a thrid file for the sake of testing Git.
+This is the third file that I added to my project.
